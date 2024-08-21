@@ -24,19 +24,7 @@ Herramienta de EFCore para linea de comandos
 
 - dotnet ef `dotnet tool install --global dotnet-ef`
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Connection String
 
@@ -56,28 +44,12 @@ Herramienta de EFCore para linea de comandos
   },
 ```
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Diagram ER
 
 ![alt text](image-1.png)
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Models
 
